@@ -3,7 +3,7 @@ import TopicContent from "./TopicContent";
 
 /**
  * Investor Guide Section
- * Contains 6 subsections: Getting Started, Stocks, Mutual Funds, Commodities, Alternates, Behavior
+ * Contains 6 subsections: Getting , Stocks, Mutual Funds, Commodities, Alternates, Behavior
  */
 
 // Define all topics for Investor Guide
